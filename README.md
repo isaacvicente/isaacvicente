@@ -10,10 +10,10 @@ I started to get interested in technology and programming in the year 2020, and,
 ### Areas of interest
 - Math, physics and problem-solving in general.
 - Human history, anthropology, sociology, philosophy and social politics.
-- Linux (Arch Linux and Fedora) and open-source.
+- Linux (Arch Linux and Fedora) and open-source in general.
 
 ### Currently learning
-- I'm taking the 2022 CS50x course, so at this moment I'm learning C.
+- I'm taking the 2022 CS50x course, and at this moment I'm learning HTML, CSS and JavaScript.
 - English.
 
 ### Pronoum
