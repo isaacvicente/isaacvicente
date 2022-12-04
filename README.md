@@ -13,7 +13,7 @@ I started to get interested in technology and programming in the year 2020, and,
 - Linux (Arch Linux and Fedora) and open-source in general.
 
 ### Currently learning
-- I'm taking the 2022 CS50x course, and at this moment I'm learning HTML, CSS and JavaScript.
+- I'm taking the 2022 CS50P (CS50 with Python) course
 - English.
 
 ### Pronoum
