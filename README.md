@@ -1,4 +1,4 @@
-Hi, I'm Isaac! I'm a relatively curious person and I always ask myself the whys of things. I try to understand the things around me and how they affect me.
+Hi, I'm Isaac! I'm a relatively curious person and I (almost) always ask myself the whys of things. I try to understand the things around me and how they affect me.
 
 As a self-taught person, I learned to like a lot of things I didn't like, like history, philosophy, mathematics, sociology, physics, and many other things.
 Although I like all these things, math has a special place in my heart.
@@ -13,8 +13,12 @@ I started to get interested in technology and programming in the year 2020, and,
 - Linux (Arch Linux and Fedora) and open-source in general.
 
 ### Currently learning
-- I'm taking the 2022 CS50P (CS50 with Python) course
-- English.
+- Web - started [The Odin Project](https://www.theodinproject.com/).
+- Rust - I couldn't resist, sorry.
+
+#### Learned
+- A little bit of C and some CS concepts - check out my [CS50x progress](https://github.com/isaacvicente/CS50x-2022).
+- Python - also check out my [CS50p progress](https://github.com/isaacvicente/CS50p-2022).
 
 ### Pronoum
 He/him.
