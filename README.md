@@ -21,7 +21,7 @@ I started to get interested in technology and programming in the year 2020, and,
 - I don't know what's next
 
 #### Learned
-- A little bit of C and some CS concepts - check out my [CS50x progress](https://github.com/isaacvicente/CS50x-2022).
+- A little bit of C and some Computer Science concepts - check out my [CS50x progress](https://github.com/isaacvicente/CS50x-2022).
 - Python - also check out my [CS50p progress](https://github.com/isaacvicente/CS50p-2022).
 - A little bit of how a container works. Check out my [little container](https://github.com/isaacvicente/little-container).
 
