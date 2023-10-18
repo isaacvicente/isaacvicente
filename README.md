@@ -1,4 +1,4 @@
-Hi, I'm Isaac! I'm a relatively curious person and I (almost) always ask myself the whys of things. I try to understand the things around me and how they affect me.
+Hi, I'm Isaac! I'm a relatively curious person and I (almost) always ask myself the why of things. I try to understand the things around me and how they affect me.
 
 As a self-taught person, I learned to like a lot of things I didn't like, like history, philosophy, mathematics, sociology, physics, and many other things.
 Although I like all these things, math has a special place in my heart.
